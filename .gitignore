@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Chainlit-specific
+.chainlit/
+.files/
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# VSCode/IDE files
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# dotenv / secrets
+.env
+.env.local
