@@ -13,7 +13,7 @@ env/
 .venv/
 
 # Chainlit-specific
-.chainlit/
+.chainlit/translations
 .files/
 
 # Jupyter/IPython
